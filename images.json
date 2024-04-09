@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "filename": "1712665413499-R (3).jpg",
+    "originalname": "R (3).jpg",
+    "url": "http://localhost:3000/images/1712665413499-R (3).jpg"
+  },
+  {
+    "id": 2,
+    "filename": "1712667208256-omnisynctech.png",
+    "originalname": "omnisynctech.png",
+    "url": "http://localhost:3000/images/1712667208256-omnisynctech.png"
+  },
+  {
+    "id": 3,
+    "filename": "1712667212768-Template 3.jpg",
+    "originalname": "Template 3.jpg",
+    "url": "http://localhost:3000/images/1712667212768-Template 3.jpg"
+  }
+]
